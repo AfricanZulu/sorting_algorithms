@@ -36,4 +36,6 @@ typedef struct card_s
  *
  * @card: Pointer to the card of the node
 
+#endif
+
 
